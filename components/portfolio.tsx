@@ -21,7 +21,7 @@ export function Portfolio() {
               <div className="mb-6">
                 <h4 className="text-lg font-semibold mb-2">Tentang Saya</h4>
                 <p className="text-gray-600">
-                  Halo! Saya Airaa Cheisyaa, seorang web developer dengan passion di bidang programming. Saya senang
+                  Halowwww:3! Saya Airaa Cheisyaa, seorang web developer dengan passion di bidang programming. Saya senang
                   mengembangkan aplikasi web yang berguna dan memiliki antarmuka yang menarik. Website HD adalah salah 
                   satu proyek yang saya kembangkan untuk membantu pengguna meningkatkan kualitas gambar dengan mudah
                   menggunakan teknologi AI.
