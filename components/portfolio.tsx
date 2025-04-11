@@ -11,7 +11,7 @@ export function Portfolio() {
           <div className="md:flex">
             <div className="md:w-1/3 bg-gradient-to-br from-blue-100 to-indigo-200 p-6 flex flex-col items-center justify-center">
               <div className="relative w-48 h-48 rounded-full overflow-hidden border-4 border-white shadow-lg mb-4">
-                <Image src="https://files.catbox.moe/oje9gx.jpg" alt="Airaa Cheisyaa" fill className="object-cover" />
+                <Image src="/aira.png" alt="Airaa Cheisyaa" fill className="object-cover" />
               </div>
               <h3 className="text-xl font-bold text-gray-800">Airaa Cheisyaa 🅥</h3>
               <p className="text-gray-600 text-center mt-2">Web Developer & Designer</p>
